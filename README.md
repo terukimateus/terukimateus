@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateus Teruki</h1>
 <h3 align="center">I started my development career at the end of 2022, with projects and studies on my own, I joined the IT course at the State University of Maringá in the second semester of 2023, currently in the third period. I have projects in ReactJS, React Native, JavaScript, Python, Assembly and NodeJS.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terukimateus" alt="terukimateus" /></a> </p>
-
 - 🔭 I’m currently working on **Baseline App**
 
 - 🌱 I’m currently learning **React Native**
