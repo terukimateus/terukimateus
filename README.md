@@ -1,9 +1,6 @@
 # Olá, meu nome é Mateus Teruki
------------------
-##### Iniciei na carreira de programação no fim de 2022, com projetos e estudos por conta, ingressei no curso de Informática da Universidade Estadual de Maringá no segundo semestre de 2023, atualmente no terceiro período. Tenho projetos em ReactJS, React Native, JavaScript, Python, Assembly e NodeJS.
-- 🔭 I’m currently working on **Baseline App**
 
-- 🌱 I’m currently learning **React Native**
+Iniciei na carreira de programação no fim de 2022, com projetos e estudos por conta, ingressei no curso de Informática da Universidade Estadual de Maringá no segundo semestre de 2023, atualmente no terceiro período. Tenho projetos em ReactJS, React Native, JavaScript, Python, Assembly e NodeJS.
 
 - 📫 __terukimateus@outlook.com__
 
