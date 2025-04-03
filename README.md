@@ -7,6 +7,7 @@ Iniciei na carreira de programação no fim de 2022, com projetos e estudos por 
 | Curso | Certificado |
 |---------- | --------- |
 |Green Software for Practitioners| [Certificado](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/32ede1f9-3fdd-4ffa-9ef7-5415d05cf8f2-mateus-teruki-4f4006d8-2090-4323-9765-781306c92fdb-certificate.pdf)| 
+|Github Certification| [Certificado](https://hermes.dio.me/certificates/PVE5RSQN.pdf)|
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
