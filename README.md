@@ -1,7 +1,17 @@
 # Olá, meu nome é Mateus Teruki
 
-Iniciei na carreira de programação no fim de 2022, com projetos e estudos por conta, ingressei no curso de Informática da Universidade Estadual de Maringá no segundo semestre de 2023, atualmente no terceiro período. Tenho projetos em ReactJS, React Native, JavaScript, Python, Assembly e NodeJS.
+Em 2020 tive o meu primeiro contato técnico com tecnologia e programação ao conhecer a linguagem .LUA.
 
+Em 2022, comecei a estudar Javascript, HTML, CSS e criar projetos próprios, me aprofundei depois em React.js, em 2023 ingressei na Universidade Estadual de Maringá.
+
+Tenho experiência no desenvolvimento de aplicações Web com código limpo e boa arquitetura, utilizando as seguintes tecnologias:
+- React.js
+- Next.js
+- Node.js
+- Mongodb
+- Tailwind
+- Git
+- 
 - 📫 __terukimateus@outlook.com__
 
 | Curso | Certificado |
