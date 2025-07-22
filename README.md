@@ -1,17 +1,9 @@
 # Olá, meu nome é Mateus Teruki
 
-Em 2020 tive o meu primeiro contato técnico com tecnologia e programação ao conhecer a linguagem .LUA.
+Passionate about building modern and scalable web applications using Typescript. Strong focus on clean architecture, code quality, and continuous improvement.
 
-Em 2022, comecei a estudar Javascript, HTML, CSS e criar projetos próprios, me aprofundei depois em React.js, em 2023 ingressei na Universidade Estadual de Maringá.
+Quick learner, proactive communicator, and team-oriented developer with experience in agile methodologies (Scrum).
 
-Tenho experiência no desenvolvimento de aplicações Web com código limpo e boa arquitetura, utilizando as seguintes tecnologias:
-- React.js
-- Next.js
-- Node.js
-- Mongodb
-- Tailwind
-- Git
-- 
 - 📫 __terukimateus@outlook.com__
 
 | Curso | Certificado |
