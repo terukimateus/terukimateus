@@ -1,4 +1,4 @@
-# Olá, meu nome é Mateus Teruki
+# Hi, my name is Mateus Teruki!
 
 Passionate about building modern and scalable web applications using Typescript. Strong focus on clean architecture, code quality, and continuous improvement.
 
@@ -6,7 +6,7 @@ Quick learner, proactive communicator, and team-oriented developer with experien
 
 - 📫 __terukimateus@outlook.com__
 
-| Curso | Certificado |
+| Courses | Certifications |
 |---------- | --------- |
 |Green Software for Practitioners| [Certificado](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/32ede1f9-3fdd-4ffa-9ef7-5415d05cf8f2-mateus-teruki-4f4006d8-2090-4323-9765-781306c92fdb-certificate.pdf)| 
 |Github Certification| [Certificado](https://hermes.dio.me/certificates/PVE5RSQN.pdf)|
