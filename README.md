@@ -3,11 +3,11 @@
 **AI Engineer | Fullstack Engineer** from Maringá, Brazil 🇧🇷  
 I build **Applied AI** solutions and **scalable fullstack products**, with strong focus on **clean architecture**, **code quality**, and **developer productivity**.
 
-Currently working with **agent-based architectures**, **RAG pipelines for codebases**, and tools that accelerate software engineering workflows. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+Currently working with **agent-based architectures**, **RAG pipelines for codebases**, and tools that accelerate software engineering workflows.
 
-- 🔭 Current focus: **Multi-agent systems**, **RAG**, **LLM tooling**, and **DX automation** :contentReference[oaicite:4]{index=4}  
-- 🧠 Engineering practices: **SOLID**, **Clean Architecture**, **TDD**, **Object Calisthenics** :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}  
-- ⚙️ Main stack: **TypeScript, React, Node.js, Python** :contentReference[oaicite:7]{index=7}  
+- 🔭 Current focus: **Multi-agent systems**, **RAG**, **LLM tooling**, and **DX automation**
+- 🧠 Engineering practices: **SOLID**, **Clean Architecture**, **TDD**, **Object Calisthenics** 
+- ⚙️ Main stack: **TypeScript, React, Node.js, Python**  
 - 📫 Email: **terukimateus@outlook.com**
 
 ---
@@ -21,21 +21,21 @@ Designed and built a **multi-agent system** focused on generating optimized prom
 Built an end-to-end **RAG pipeline** for source code: repository vectorization, custom embeddings, and semantic querying using **ChromaDB**.
 
 ### 🧩 Brazilian Docs Validator (NPM Package)
-Open-source TypeScript library for validating and formatting Brazilian docs (**CPF, CNPJ, PIX**) — **1k+ weekly downloads**. :contentReference[oaicite:12]{index=12} :contentReference[oaicite:13]{index=13}
+Open-source TypeScript library for validating and formatting Brazilian docs (**CPF, CNPJ, PIX**) — **1k+ weekly downloads**.
 
 ### 🧠 Micro-SaaS: CV.Adapta
-SaaS for analyzing and rewriting résumés for **ATS compatibility**, including semantic matching between experience and job descriptions. :contentReference[oaicite:14]{index=14} :contentReference[oaicite:15]{index=15}
+SaaS for analyzing and rewriting résumés for **ATS compatibility**, including semantic matching between experience and job descriptions.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:** TypeScript, JavaScript, Python :contentReference[oaicite:16]{index=16}  
-**Frontend:** React, Next.js, Vite :contentReference[oaicite:17]{index=17}  
-**Backend:** Node.js :contentReference[oaicite:18]{index=18}  
-**Applied AI:** Google ADK, LangChain, HuggingFace, RAG (ChromaDB) :contentReference[oaicite:19]{index=19} :contentReference[oaicite:20]{index=20}  
-**DevOps:** Docker, AWS, Firebase :contentReference[oaicite:21]{index=21}  
-**Testing/Tooling:** Jest, Vitest, SWC, Git :contentReference[oaicite:22]{index=22}  
+**Languages:** TypeScript, JavaScript, Python
+**Frontend:** React, Next.js, Vite
+**Backend:** Node.js
+**Applied AI:** Google ADK, LangChain, HuggingFace, RAG (ChromaDB)
+**DevOps:** Docker, AWS, Firebase
+**Testing/Tooling:** Jest, Vitest, SWC, Git 
 
 ---
 
